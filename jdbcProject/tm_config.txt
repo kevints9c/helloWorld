@@ -1,0 +1,1 @@
+ id= 1  _key=tjSwitch  value=true   entity_class_name=java.lang

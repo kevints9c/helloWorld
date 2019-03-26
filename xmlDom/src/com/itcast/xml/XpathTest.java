@@ -9,6 +9,10 @@ import org.dom4j.DocumentException;
 import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
 
+/**
+ * @author ic
+ *
+ */
 public class XpathTest {
 
 	public static void main(String[] args) {

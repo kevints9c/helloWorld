@@ -13,7 +13,7 @@
 		<des><![CDATA[<a href="https://www.baidu.com">CDATA数据</a>]]></des>
 	</stu>
 </stus>
-
+<!-- 好好用 -->
 <!-- element注释信息 -node 包含document、element、attribute、text XML解析方式有很多种：常用的两种： 
 	DOM:把整个xml读到内存中，形成树状结构，整个文档称为document对象，属性值Attribute对象 所有元素节点对象element对象，文本称为Text对象，以上所有对象称为Node节点，可以增删 
 	SAX:Simple API for Xml: 基于事件驱动，读取1行，解析1行，不会造成内存溢出，不能增删，只能查询 解决方案： dom4j --> 
